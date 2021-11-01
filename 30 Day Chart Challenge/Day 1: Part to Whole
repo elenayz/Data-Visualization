@@ -1,0 +1,24 @@
+library(tidyverse)
+library(showtext)
+library(ggtext)
+
+font_add_google("Raleway","Raleway")
+showtext.auto()
+
+day_1 <- read.csv(file='Documents/Day_1.csv')
+
+day_1$Category <- recode(day_1$category, '1'='Economic','2'='Social','3'='Security',
+                         '4'='General Admin.','5'='Others')
+
+ggplot(day_1,aes(x=year,y=expenditure,fill=Category))+
+  geom_bar(stat='identity')+
+  labs(x='Year',y='Expenditure (RM million)', title=
+         '\nFederal Government Operating Expenditure by Sector \n', 
+       caption='Source: https://www.mof.gov.my/arkib/hasil/2019/st_kewangan.pdf')+
+  coord_flip()+
+  theme_minimal()+
+  scale_fill_brewer(palette = 'Pastel2')+
+  theme(legend.title = element_blank(),
+        text = element_text(family = "Raleway"),
+        plot.title = element_text(size = 18,face = "bold", colour = "#2F4858"),
+        legend.position = "bottom")
