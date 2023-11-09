@@ -33,9 +33,9 @@ Compilation of charts produced for the #30DayChartChallenge on Twitter.
 
 <img src="Day 8 - Humans/day8.png"/>
 
-## [Day 9: High:low](https://github.com/elenayz/Data-Visualization/tree/main/30%20Day%20Chart%20Challenge/Day%209%20-%20High%3Alow)
+## [Day 9: High-low](https://github.com/elenayz/Data-Visualization/tree/main/30%20Day%20Chart%20Challenge/Day%209%20-%20High%3Alow)
 
-<img src="Day 9 - High:low/day9.png"/>
+<img src="Day 9 - High-low/day9.png"/>
 
 ## [Day 10: Hybrid]()
 
@@ -55,11 +55,11 @@ Compilation of charts produced for the #30DayChartChallenge on Twitter.
 
 ## [Day 14: New Tool]()
 
-<img src="Day 14 - New Tool/day14.png"/>
+<img src="Day 14 - New Tool/Internal Migration Flows in Malaysia@2x.jpeg"/>
 
-## [Day 15: Positive:negative]()
+## [Day 15: Positive-negative]()
 
-<img src="Day 15 - Positive:negative/day15.png"/>
+<img src="Day 15 - Positive-negative/day15.png"/>
 
 ## [Day 16: Family]()
 
