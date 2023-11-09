@@ -1,8 +1,8 @@
 ---
 title: "30 Day Chart Challenge"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 Compilation of charts produced for the #30DayChartChallenge on Twitter.
@@ -63,13 +63,13 @@ Compilation of charts produced for the #30DayChartChallenge on Twitter.
 
 \*created with flourish
 
-![](images/Internal Migration Flows in Malaysia@2x.jpeg)
+![](images/Internal%20Migration%20Flows%20in%20Malaysia@2x.jpeg)
 
 ## Day 15: Positive/negative
 
 \*created with streamgraph
 
-![](images/Positive COVID-19 Cases in Malaysia.png)
+![](images/Positive%20COVID-19%20Cases%20in%20Malaysia.png)
 
 ## Day 16: Family
 
