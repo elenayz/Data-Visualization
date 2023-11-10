@@ -9,7 +9,7 @@ Compilation of charts produced for the #30DayChartChallenge on Twitter.
 
 <img src="Day 2 - Waffle/day2.png"/>
 
-## Day 3: Flora and Fauna
+## [Day 3: Flora and Fauna](https://github.com/elenayz/Data-Visualization/tree/main/30%20Day%20Chart%20Challenge/Day%203%20-%20Flora%20and%20Fauna) 
 
 <img src="Day 3 - Flora and Fauna/day3.png"/>
 
@@ -37,31 +37,35 @@ Compilation of charts produced for the #30DayChartChallenge on Twitter.
 
 <img src="Day 9 - High-low/day9.png"/>
 
-## [Day 10: Hybrid]()
+## [Day 10: Hybrid](https://github.com/elenayz/Data-Visualization/tree/main/30%20Day%20Chart%20Challenge/Day%2010%20-%20Hybrid)
 
 <img src="Day 10 - Hybrid/day10.png"/>
 
-## [Day 11: Circular]()
+## [Day 11: Circular](https://github.com/elenayz/Data-Visualization/tree/main/30%20Day%20Chart%20Challenge/Day%2011%20-%20Circular)
 
 <img src="Day 11 - Circular/day11.png"/>
 
-## [Day 12: BBC]()
+## [Day 12: BBC](https://github.com/elenayz/Data-Visualization/tree/main/30%20Day%20Chart%20Challenge/Day%2012%20-%20BBC)
 
 <img src="Day 12 - BBC/day12.png"/>
 
-## [Day 13: Pop Culture]()
+## [Day 13: Pop Culture](https://github.com/elenayz/Data-Visualization/tree/main/30%20Day%20Chart%20Challenge/Day%2013%20-%20Pop%20Culture)
 
 <img src="Day 13 - Pop Culture/day13.png"/>
 
-## [Day 14: New Tool]()
+## [Day 14: New Tool](https://github.com/elenayz/Data-Visualization/tree/main/30%20Day%20Chart%20Challenge/Day%2014%20-%20New%20Tool)
+
+Created with flourish
 
 <img src="Day 14 - New Tool/Internal Migration Flows in Malaysia@2x.jpeg"/>
 
-## [Day 15: Positive-negative]()
+## [Day 15: Positive-negative](https://github.com/elenayz/Data-Visualization/tree/main/30%20Day%20Chart%20Challenge/Day%2015%20-%20Positive-negative)
+
+Created with streamgraph
 
 <img src="Day 15 - Positive-negative/day15.png"/>
 
-## [Day 16: Family]()
+## [Day 16: Family](https://github.com/elenayz/Data-Visualization/tree/main/30%20Day%20Chart%20Challenge/Day%2016%20-%20Family)
 
 <img src="Day 16 - Family/day16.png"/>
 
